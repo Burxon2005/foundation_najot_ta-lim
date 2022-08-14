@@ -1,0 +1,27 @@
+Method	    Description
+
+append    ()   Ro'yxat oxiriga element qo'shadi
+clear     ()   Roʻyxatdagi barcha elementlarni olib tashlaydi
+copy      ()   Ro'yxatning nusxasini qaytaradi
+count     ()   Belgilangan qiymatga ega elementlar sonini qaytaradi
+extend    ()   Joriy ro'yxatning oxiriga ro'yxat elementlarini (yoki har qanday takrorlanadigan) qo'shing
+index     ()   Belgilangan qiymat bilan birinchi elementning indeksini qaytaradi
+insert    ()   Belgilangan joyga element qo'shadi
+pop       ()   Belgilangan joydagi elementni olib tashlaydi
+remove    ()   Belgilangan qiymatga ega birinchi elementni olib tashlaydi
+reverse   ()   Roʻyxat tartibini oʻzgartiradi
+sort      ()   Ro'yxatni tartiblaydi
+
+clear     ()   Lug'atdan barcha elementlarni olib tashlaydi
+copy      ()   Lug'at nusxasini qaytaradi
+fromkeys  ()   Belgilangan kalitlar va qiymatga ega lug'atni qaytaradi
+get       ()   Belgilangan kalitning qiymatini qaytaradi
+items     ()   Har bir kalit qiymat juftligi uchun kortejni o'z ichiga olgan ro'yxatni qaytaradi
+keys      ()   Lug'at kalitlarini o'z ichiga olgan ro'yxatni qaytaradi
+pop       ()   Belgilangan kalit bilan elementni olib tashlaydi
+popitem   ()   Oxirgi kiritilgan kalit-qiymat juftligini olib tashlaydi
+setdefault()   Belgilangan kalitning qiymatini qaytaradi. Agar kalit mavjud bo'lmasa: kalitni belgilangan qiymat bilan kiriting
+update    ()   Lug'atni belgilangan kalit-qiymat juftliklari bilan yangilaydi
+values    ()   Lug'atdagi barcha qiymatlar ro'yxatini qaytaradi
+count     ()   Belgilangan qiymat kortejda necha marta sodir bo'lishini qaytaradi
+index     ()   Belgilangan qiymat uchun kortejni qidiradi va u topilgan joyni qaytaradi
