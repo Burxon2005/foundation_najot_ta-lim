@@ -1,0 +1,3 @@
+/home/burxon/Desktop/C/C - Najot ta'lim/9 - dars. Exam, Random/cmake-build-debug/CMakeFiles/9___dars_.dir
+/home/burxon/Desktop/C/C - Najot ta'lim/9 - dars. Exam, Random/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/burxon/Desktop/C/C - Najot ta'lim/9 - dars. Exam, Random/cmake-build-debug/CMakeFiles/rebuild_cache.dir

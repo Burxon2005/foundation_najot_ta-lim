@@ -1,0 +1,8 @@
+{
+     "editor.fontSize": 22,
+     "editor.tabSize": 5,
+     "workbench.colorTheme": "Visual Studio Dark",
+     "editor.fontWeight": "normal",
+     "editor.tabCompletion": "off",
+     "emmet.triggerExpansionOnTab": false
+}

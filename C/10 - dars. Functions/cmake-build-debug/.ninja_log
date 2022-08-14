@@ -1,0 +1,20 @@
+# ninja log v5
+47	81	1656270600855262711	10___dars__Functions	aff3e7520b414c0e
+0	47	1656270600819261832	CMakeFiles/10___dars__Functions.dir/Д_Задание.c.o	da7123572a8e43ac
+0	50	1656149446502281535	CMakeFiles/10___dars__Functions.dir/main.c.o	d295e711c81bb8f
+1	29	1656157995240976442	CMakeFiles/10___dars__Functions.dir/Bank.c.o	4e846b6256cf5f4d
+0	25	1656158452624902143	CMakeFiles/10___dars__Functions.dir/Qo'shimcha.c.o	a9f7d4a2452f9bf5
+0	48	1656274340548612196	CMakeFiles/10___dars__Functions.dir/Depozitli_bank.c.o	470425da8496e0ac
+49	99	1656274340592605040	10___dars__Functions	acdc56c39f3ce273
+0	29	1656274415973191664	CMakeFiles/10___dars__Functions.dir/Depozitli_bank.c.o	470425da8496e0ac
+29	45	1656274415993188847	10___dars__Functions	acdc56c39f3ce273
+0	34	1656274473117576824	CMakeFiles/10___dars__Functions.dir/Depozitli_bank.c.o	470425da8496e0ac
+34	54	1656274473137574305	10___dars__Functions	acdc56c39f3ce273
+1	28	1656274560743405928	CMakeFiles/10___dars__Functions.dir/Depozitli_bank.c.o	470425da8496e0ac
+28	47	1656274560763403795	10___dars__Functions	acdc56c39f3ce273
+0	29	1656274577773619457	CMakeFiles/10___dars__Functions.dir/Depozitli_bank.c.o	470425da8496e0ac
+29	48	1656274577789617805	10___dars__Functions	acdc56c39f3ce273
+0	23	1656274645899026205	CMakeFiles/10___dars__Functions.dir/Depozitli_bank.c.o	470425da8496e0ac
+23	37	1656274645915024754	10___dars__Functions	acdc56c39f3ce273
+1	25	1656274862394930112	CMakeFiles/10___dars__Functions.dir/Depozitli_bank.c.o	470425da8496e0ac
+25	40	1656274862410929149	10___dars__Functions	acdc56c39f3ce273

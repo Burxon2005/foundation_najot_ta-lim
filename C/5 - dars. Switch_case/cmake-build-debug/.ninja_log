@@ -1,0 +1,10 @@
+# ninja log v5
+25	44	1655190017695649349	5_dars	fb978bb88b9eb02f
+0	41	1655182960854241868	CMakeFiles/5_dars.dir/Switch_case_home.c.o	9c42a035c167a97c
+0	21	1655113676163199918	CMakeFiles/5_dars.dir/main.c.o	cdaee6ce95ff8804
+1	17	1655122636349922863	CMakeFiles/5_dars.dir/Example.c.o	d3f9d36f6a99de0e
+0	25	1655190017675640607	CMakeFiles/5_dars.dir/Exam.c.o	daf694c544ceb8f
+0	37	1655238491785419019	CMakeFiles/5_dars.dir/Switch_case_home.c.o	9c42a035c167a97c
+37	66	1655238491813424514	5_dars	c61fc54cac1bc5c0
+0	21	1655238500766628553	CMakeFiles/5_dars.dir/Switch_case_home.c.o	9c42a035c167a97c
+21	38	1655238500786630348	5_dars	c61fc54cac1bc5c0

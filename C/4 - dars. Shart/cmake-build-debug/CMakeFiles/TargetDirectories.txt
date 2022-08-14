@@ -1,0 +1,3 @@
+/home/burxon/Desktop/C/C - Najot ta'lim/4 - dars. Shart/cmake-build-debug/CMakeFiles/_Prac.dir
+/home/burxon/Desktop/C/C - Najot ta'lim/4 - dars. Shart/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/burxon/Desktop/C/C - Najot ta'lim/4 - dars. Shart/cmake-build-debug/CMakeFiles/rebuild_cache.dir

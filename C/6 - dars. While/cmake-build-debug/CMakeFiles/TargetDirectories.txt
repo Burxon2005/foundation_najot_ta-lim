@@ -1,0 +1,3 @@
+/home/burxon/Desktop/C/C - Najot ta'lim/6-dars. While/cmake-build-debug/CMakeFiles/6_dars__While.dir
+/home/burxon/Desktop/C/C - Najot ta'lim/6-dars. While/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/burxon/Desktop/C/C - Najot ta'lim/6-dars. While/cmake-build-debug/CMakeFiles/rebuild_cache.dir

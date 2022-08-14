@@ -1,0 +1,3 @@
+/home/burxon/Desktop/C/C - Najot ta'lim/8 - dars. Continue, for/cmake-build-debug/CMakeFiles/8_dars__Continue__for.dir
+/home/burxon/Desktop/C/C - Najot ta'lim/8 - dars. Continue, for/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/burxon/Desktop/C/C - Najot ta'lim/8 - dars. Continue, for/cmake-build-debug/CMakeFiles/rebuild_cache.dir

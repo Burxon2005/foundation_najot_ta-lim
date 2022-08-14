@@ -1,0 +1,3 @@
+/home/burxon/Desktop/C/C - Najot ta'lim/14 - dars/cmake-build-debug/CMakeFiles/14___dars.dir
+/home/burxon/Desktop/C/C - Najot ta'lim/14 - dars/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/burxon/Desktop/C/C - Najot ta'lim/14 - dars/cmake-build-debug/CMakeFiles/rebuild_cache.dir

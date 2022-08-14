@@ -1,0 +1,9 @@
+1 - person
+Name       : burxon
+SurName    : nuriddinov
+Age        : 16
+Educations     : school najot talim
+Programming languages  : c java python
+Work Experience    : 7 yar
+Activity Projects  : dkdkd
+
